@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Priyam</h1>
+<h1 align="center">प्रणाम 🙏, I'm Ayush Priyam</h1>
 <h3 align="center">A passionate developer blending the art of design with the science of code to create seamless digital experiences</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpriyamm" alt="ayushpriyamm" /></a> </p>
