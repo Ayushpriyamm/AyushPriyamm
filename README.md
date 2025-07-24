@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_priy81321" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_priy81321?logo=twitter&style=for-the-badge" alt="ayush_priy81321" /></a> </p>
 
-- 🔭 I’m currently working on [Basketry](https://github.com/Ayushpriyamm/Grocery-Del/)
 
 - 🌱 I’m currently learning **I’m currently learning Redux with modern practices, enhancing my skills in React, and diving deeper into backend integrations with Node.js and Express to build robust, full-stack applications**
 
